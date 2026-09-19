@@ -1,0 +1,18 @@
+# Binários e artefatos de build
+*.exe
+*.test
+*.out
+/etak-go
+
+# Ambiente local
+.env
+
+PLANO.md
+CLAUDE.md
+AGENTS.md
+docs/superpowers/
+
+# HelixDB CLI (workspace local)
+.helix/
+target/
+*.log
